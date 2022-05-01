@@ -28,12 +28,13 @@ Most cardiovascular diseases can be prevented by addressing behavioral risk fact
     </item>
     
     <item>
-      <title>Atete</title>
-      <link>https://CrispinK.github.io/Crispin_Portfolio/post/atete/</link>
+      <title>Malaria in Africa EDA</title>
+      <link>https://CrispinK.github.io/Crispin_Portfolio/post/malaria_in_africa/</link>
       <pubDate>Thu, 21 Apr 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/atete/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/malaria_in_africa/</guid>
+      <description>Africa, the world&amp;rsquo;s second-largest continent, a continent with a wide array of vibrant cultures each with its own deep history, continent number 2 of largest population, and the continent is home to wonderful wildlife you can spot when you go on safari! Let&amp;rsquo;s focus on Africa in this dataset.
+Malaria is a common disease in Africa. The disease is transmitted to humans through infected mosquito bites. Although you can take preventive measures against malaria, it can be life-threatening.</description>
     </item>
     
     <item>
