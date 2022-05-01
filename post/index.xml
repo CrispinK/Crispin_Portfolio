@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Mar 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://CrispinK.github.io/Crispin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Analysis</title>
-      <link>https://CrispinK.github.io/Crispin_Portfolio/post/secondchange/</link>
-      <pubDate>Sat, 30 Apr 2022 10:25:59 -0400</pubDate>
-      
-      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/secondchange/</guid>
-      <description>In this project I use Python Pandas &amp;amp; Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.  Detailed project description I start by cleaning the data. Tasks during this section include:
-Drop NaN values from DataFrame Removing rows based on a condition Change the type of columns (to_numeric, to_datetime, astype) Once I have cleaned up the data a bit, I move to data exploration section.</description>
-    </item>
-    
-    <item>
       <title>Sales Analysis</title>
       <link>https://CrispinK.github.io/Crispin_Portfolio/post/salesanalysis/</link>
       <pubDate>Fri, 29 Apr 2022 10:25:59 -0400</pubDate>
