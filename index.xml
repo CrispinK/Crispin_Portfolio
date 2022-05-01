@@ -6,7 +6,17 @@
     <description>Recent content in Data Science Portfolio on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 10:25:59 -0400</lastBuildDate><atom:link href="https://CrispinK.github.io/Crispin_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Apr 2022 10:25:59 -0400</lastBuildDate><atom:link href="https://CrispinK.github.io/Crispin_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>https://CrispinK.github.io/Crispin_Portfolio/post/secondchange/</link>
+      <pubDate>Sat, 30 Apr 2022 10:25:59 -0400</pubDate>
+      
+      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/secondchange/</guid>
+      <description>In this project I use Python Pandas &amp;amp; Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.  Detailed project description I start by cleaning the data. Tasks during this section include:
+Drop NaN values from DataFrame Removing rows based on a condition Change the type of columns (to_numeric, to_datetime, astype) Once I have cleaned up the data a bit, I move to data exploration section.</description>
+    </item>
+    
     <item>
       <title>Sales Analysis</title>
       <link>https://CrispinK.github.io/Crispin_Portfolio/post/salesanalysis/</link>
@@ -18,13 +28,13 @@ I start by cleaning the data. Tasks during this section include: Drop NaN values
     </item>
     
     <item>
-      <title>2: Ball Image Classifier</title>
-      <link>https://CrispinK.github.io/Crispin_Portfolio/post/change2/</link>
+      <title>Heart Failure Data Analysis</title>
+      <link>https://CrispinK.github.io/Crispin_Portfolio/post/heart_failure/</link>
       <pubDate>Fri, 22 Apr 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/change2/</guid>
-      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
+      <guid>https://CrispinK.github.io/Crispin_Portfolio/post/heart_failure/</guid>
+      <description>Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Heart failure is a common event caused by CVDs and this dataset contains 12 features that can be used to predict mortality by heart failure.
+Most cardiovascular diseases can be prevented by addressing behavioral risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.</description>
     </item>
     
     <item>
